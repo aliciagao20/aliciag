@@ -11,7 +11,7 @@
 <img src="images/citi-04.png"/>
 
 ---
-[Citi Bank Credit Risk Decision Support](/pdf/sample_presentation.pdf)
+[Citi Bank Credit Risk Decision Support](/pdf/CITI_pdf.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
