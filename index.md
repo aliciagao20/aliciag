@@ -6,13 +6,11 @@
 
 [Market Research in Social Media — Twitter texts analysis](/sample_page)
 <img src="images/citi-01.png"/>
-<img src="images/citi-02.png"/>
-<img src="images/citi-03.png"/>
-<img src="images/citi-04.png"/>
+
 
 ---
 [Citi Bank Credit Risk Decision Support](/pdf/CITI_pdf.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/citi_all.jpg"/>
 
 
 ---
