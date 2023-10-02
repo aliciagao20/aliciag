@@ -4,7 +4,7 @@
 
 ### Marketing Analytics Projects 
 
-[Market Research in Social Media — Twitter texts analysis](/sample_page)
+[Market Research in Social Media — Twitter texts analysis](/pdf/tt_slides.pdf)
 <img src="images/tt5.png"/>
 <img src="images/tt6.png"/>
 <img src="images/tt10.png"/>
