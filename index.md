@@ -4,14 +4,14 @@
 
 ### Marketing Analytics Programs 
 
-[Citi Bank Credit Risk Decision Support](/sample_page)
+[Market Research in Social Media — Twitter texts analysis](/sample_page)
 <img src="images/citi-01.png"/>
 <img src="images/citi-02.png"/>
 <img src="images/citi-03.png"/>
 <img src="images/citi-04.png"/>
 
 ---
-[Market Research in Social Media — Twitter texts analysis](/pdf/sample_presentation.pdf)
+[Citi Bank Credit Risk Decision Support](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
