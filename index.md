@@ -2,10 +2,14 @@
 
 ---
 
-### Marketing Analytics Programs 
+### Marketing Analytics Projects 
 
 [Market Research in Social Media — Twitter texts analysis](/sample_page)
-<img src="images/citi-01.png"/>
+<img src="images/tt5.png"/>
+<img src="images/tt6.png"/>
+<img src="images/tt10.png"/>
+<img src="images/tt13.png"/>
+
 
 
 ---
@@ -13,15 +17,6 @@
 <img src="images/citi_all.jpg"/>
 
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
