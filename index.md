@@ -1,4 +1,5 @@
 ## Portfolio
+[CV](/pdf/cv_Xinying.pdf)
 
 ---
 
