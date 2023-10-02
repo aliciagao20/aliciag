@@ -1,10 +1,10 @@
 title: Xinying(Alicia) Gao # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "images/个人照片.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>Current IE University Master’s student in International Development with expected graduation in July of 2024.<br>
   Second description 
-  <br><br>
+  <br>Having internship experiences in the United Nations and several consulting firms, my working interests lie in the positions of data analytics and business analytics in sustainable/ESG industries. Currently, I am looking for a full-time job/internship opportunity after graduation.<br>
   <a href="https://www.linkedin.com/in/aliciagao/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
