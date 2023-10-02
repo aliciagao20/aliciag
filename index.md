@@ -4,16 +4,13 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Citi Bank Credit Risk Decision Support](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Market Research in Social Media — Twitter texts analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
